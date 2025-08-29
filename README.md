@@ -73,6 +73,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ajsutar el registerpage para que incluya los metodos de logueo
 ajustar el botón deinicisoi de seison con google apra que valide el usuario en firestore primero
 
-# ProyectoReact
-# ProyectoReact
-# ProyectoReact

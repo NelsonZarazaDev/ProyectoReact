@@ -90,7 +90,7 @@ function DashboardPage() {
                 <Nav.Link className="logout-link d-flex align-items-center gap-2">
                   <FaSignOutAlt /> Cerrar Sesión
                   <img
-                    src={userDefault}
+                    src={userPhoto}
                     alt="Foto de usuario"
                     className="user-photo-nav"
                   />

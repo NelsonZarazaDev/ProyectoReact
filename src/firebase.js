@@ -2,14 +2,13 @@ import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider, signOut } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
-
 const firebaseConfig = {
-    apiKey: "AIzaSyD8kt8zkBvvCjXPB6ZrZWacUgfK4Ukmblk",
+  apiKey: "AIzaSyD8kt8zkBvvCjXPB6ZrZWacUgfK4Ukmblk",
   authDomain: "projectreactmintic.firebaseapp.com",
   projectId: "projectreactmintic",
   storageBucket: "projectreactmintic.firebasestorage.app",
   messagingSenderId: "622220830201",
-  appId: "1:622220830201:web:56529980a43ffb996f8928"
+  appId: "1:622220830201:web:56529980a43ffb996f8928",
 };
 
 // Inicializar Firebase
